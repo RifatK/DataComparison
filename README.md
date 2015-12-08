@@ -17,6 +17,11 @@ These two variable below need to be defined with the complete input file paths:
 the script can be executed as : 
 python show_status.py -c
 
+Once the script is executed successfully it will genereate file : output_fmt[1].txt
+This file name can be modified by changing variable : _RESULT_FILE='output_fmt[1].txt'
+
+This package also contain a unit test script solutions_status_test_case.py 
+
 
 
 
